@@ -12,6 +12,6 @@ describe('ProgressBar', () => {
   });
 });
 
-function Example50Percent() {
+/*function Example50Percent() {
   return <ProgressBar percent={50} width={500} />
-}
+}*/
